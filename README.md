@@ -6,7 +6,7 @@ Vim color syntax based on obsidian2.
 Installation
 ------------
 
-Using [pathogen.vim]((https://github.com/tpope/vim-pathogen)):
+Using [pathogen.vim](https://github.com/tpope/vim-pathogen):
 
 * Submodules
 
