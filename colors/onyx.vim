@@ -29,7 +29,7 @@ hi LineNr guifg=#66747b guibg=#293134
 hi MatchParen gui=bold guifg=#293134 guibg=#ec7600
 hi ModeMsg guifg=#ff8409 guibg=#293134
 hi MoreMsg guifg=#ff8409 guibg=#293134
-hi NonText guifg=#66747b guibg=#293134
+hi NonText guifg=#444D52 guibg=#293134
 hi Number guifg=#ffcd22 guibg=#293134
 hi Operator guifg=#e8e2b7 guibg=#293134
 hi Pmenu guifg=#e0e2e4 guibg=#66747b
@@ -39,7 +39,7 @@ hi Question guifg=#a082bd guibg=#293134
 hi Repeat guifg=#93c763 guibg=#293134
 hi Search guifg=#293134 guibg=#e0e2e4
 hi Special guifg=#93c763 guibg=#293134
-hi SpecialKey guifg=#66747b guibg=#293134
+hi SpecialKey guifg=#444D52 guibg=#293134
 "hi SpecialKey guifg=#5899c0 guibg=#293134
 hi Statement gui=bold guifg=#93c763 guibg=#293134
 hi StatusLine gui=NONE guifg=#e0e2e4 guibg=#678cb1
