@@ -69,3 +69,4 @@ hi NERDTreeUp guifg=#5899c0
 hi rubyInterpolation guifg=#FFC285 guibg=NONE
 hi rubySymbol guifg=#FFE58F guibg=NONE
 
+hi goSameId guifg=#293134 guibg=#ceccab
