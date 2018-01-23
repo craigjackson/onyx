@@ -15,7 +15,7 @@ hi ColorColumn guifg=NONE guibg=#332828
 hi Constant guifg=#678cb1 guibg=#293134
 hi Cursor guifg=#293134 guibg=#c9a887
 hi CursorColumn guifg=#e0e2e4 guibg=#2f393c
-hi CursorLine guibg=#3C484D
+hi CursorLine guibg=#1f2427
 hi Define gui=bold guifg=#93c763 guibg=#293134
 hi Directory guifg=#5899c0 guibg=#293134
 hi Error guifg=#d39745 guibg=#293134
@@ -29,7 +29,7 @@ hi LineNr guifg=#66747b guibg=#293134
 hi MatchParen gui=bold guifg=#293134 guibg=#ec7600
 hi ModeMsg guifg=#ff8409 guibg=#293134
 hi MoreMsg guifg=#ff8409 guibg=#293134
-hi NonText guifg=#444D52 guibg=#293134
+hi NonText guifg=#444D52
 hi Number guifg=#ffcd22 guibg=#293134
 hi Operator guifg=#e8e2b7 guibg=#293134
 hi Pmenu guifg=#e0e2e4 guibg=#66747b
