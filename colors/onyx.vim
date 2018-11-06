@@ -37,7 +37,7 @@ hi PmenuSel guifg=#2f393c guibg=#678cb1
 hi PreProc guifg=#a082bd guibg=#293134
 hi Question guifg=#a082bd guibg=#293134
 hi Repeat guifg=#93c763 guibg=#293134
-hi Search guifg=#293134 guibg=#e0e2e4
+hi Search guifg=black guibg=white
 hi Special guifg=#93c763 guibg=#293134
 hi SpecialKey guifg=#444D52 guibg=#293134
 "hi SpecialKey guifg=#5899c0 guibg=#293134
